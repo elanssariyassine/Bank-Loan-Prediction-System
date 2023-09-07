@@ -10,13 +10,15 @@ deployment**
 
 ### Home Page
 
-* ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/Screen_1.png)
+*
+  ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/Screen_1.png)
 
-* ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/screen_2.png)
+*
+  ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/screen_2.png)
 
 ## Output 
 
-* ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/Screen_3.png)
+![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/screen_3.png)
 
 
 
