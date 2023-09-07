@@ -12,7 +12,7 @@ deployment**
 
 * ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/Screen_1.png)
 
-* ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/Screen_2.png)
+* ![](https://github.com/elanssariyassine/Bank-Loan-Prediction-System/blob/master/screen_2.png)
 
 ## Output 
 
